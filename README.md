@@ -356,6 +356,6 @@ After completing all topics, you will:
 
 ---
 
-👨‍💻 *Created by Prasant Kumar*  
+👨‍💻 *Created by Dhruv Sharma*  
 📅 *Add your learning dates here*  
 📂 *Use this guide to track your Java learning journey!*
